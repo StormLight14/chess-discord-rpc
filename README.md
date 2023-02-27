@@ -3,9 +3,9 @@ A guide to have custom rpc on your Discord profile when using Lichess or Chess.c
 ONLY WORKS ON LINUX-BASED SYSTEMS as of now. Requires root permissions.
 
 ## How to do it
-1a. Download the latest release, it comes with both Lichess and Chess.com executables. Delete either folder if you dont want it before continuing.
+1. Download the latest release, it comes with both Lichess and Chess.com executables. Delete either folder if you dont want it before continuing.
 
-1b. Clone this repository, use Nativefier or whatever other solution you have for getting executables of the sites and put them into the chesscom and/or lichess folders
+OR clone this repository, use Nativefier or whatever other solution you have for getting executables of the sites and put them into the chesscom and/or lichess folders
 
 2. Go into the folder of lichess, chesscom, or both, and edit the python files. Simply replace "Stormlightnoway" with your own username wherever it is said.
 
