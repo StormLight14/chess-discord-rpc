@@ -1,0 +1,7 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Chess.com
+Exec=/usr/share/applications/chesscom/chesscom.sh
+Icon=/usr/share/applications/chesscom/chesscom.png
+Type=Application
+Categories=Game;

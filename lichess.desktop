@@ -1,0 +1,7 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Lichess
+Exec=/usr/share/applications/lichess/lichess.sh
+Icon=/usr/share/applications/lichess/lichess.png
+Type=Application
+Categories=Game;
