@@ -10,4 +10,5 @@ You should be able to search for Lichess or Chess.com as a native program now, a
 
 ## Other stuff
 The "native" chess client binaries are created with Nativefier, you can use the tool yourself if you do not trust the ones I've provided, just make sure the file names match up.
-I may try to use GitHub actions in the future.
+
+I may try to use GitHub actions instead of just providing them myself in the future.
